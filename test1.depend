@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1495910601 source:/home/user/codeblocks/test1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<pthread.h>
+
